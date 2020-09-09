@@ -1,0 +1,71 @@
+.nav-color-css{
+    color:  lightslategray;
+}
+.color-ul{
+    background-color: black;
+}
+.name-person{
+    color: khaki;
+    margin: 10px 10px 10px 55px;
+}
+
+.p-person{
+    color: lightgoldenrodyellow;
+    margin: 10px 10px 10px 55px;
+
+}
+.button-color{
+    color: black;
+    background-color: antiquewhite;
+}
+.card{
+    margin: 20px 20px 20px 20px;
+    border-radius: 1cm;
+}
+.card-img-top{
+    border-radius: 1cm;
+
+}
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content{
+    margin: 0px 0px 0px 50px;
+    padding: 15px 0px 15px 0px;
+    border-bottom: 3px ridge whitesmoke;
+}
+.row-pusher{
+    margin: 40px 0px 20px 20px;
+    border-bottom: 2px ridge;
+}
+
+.footer{
+    background-color: lightslategray;
+    color: lightyellow;
+    margin: 10px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: lightslategray;
+    color: lightyellow;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: lightsteelblue;
+}
+ a{
+    color: black;
+}
+.ul-container{
+    border: 3px ridge lightyellow;
+    color: black;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
