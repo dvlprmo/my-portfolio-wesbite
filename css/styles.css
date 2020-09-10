@@ -8,6 +8,12 @@
 
 .head-fonter{
     font-family: 'Grandstander', cursive;
+   
+}
+.footer-fonter{
+    font-family: 'Grandstander', cursive;
+    color: tomato;
+
 }
 .li-color-css{
     color: lightyellow;;
