@@ -1,1 +1,1 @@
-keep_files: ['node_modules']
+keep_files: [node]
