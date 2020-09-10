@@ -1,41 +1,33 @@
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
 .nav-color-css{
     color:  lightslategray;
 }
-.color-ul{
-    background-color: black;
-}
-.name-person{
-    color: khaki;
-    margin: 10px 10px 10px 55px;
-}
 
-.p-person{
-    color: lightgoldenrodyellow;
-    margin: 10px 10px 10px 55px;
-
+.head-fonter{
+    font-family: 'Grandstander', cursive;
 }
-.button-color{
-    color: black;
-    background-color: antiquewhite;
-}
-.card{
-    margin: 20px 20px 20px 20px;
-    border-radius: 1cm;
-}
-.card-img-top{
-    border-radius: 1cm;
-
+.li-color-css{
+    color: lightyellow;;
 }
 
 .row-header{
     margin: 0px auto;
     padding: 0px auto;
 }
+.row-header h1{
+    margin: 15px 5px 5px 55px;
+}
+.row-header h4{
+    margin: 15px 5px 5px 55px;
+}
 
 .row-content{
-    margin: 0px 0px 0px 50px;
-    padding: 15px 0px 15px 0px;
-    border-bottom: 3px ridge whitesmoke;
+    margin: 10px 0px 0px 10px;
+    padding: 0px 0px 0px 0px;
+    
 }
 .row-pusher{
     margin: 40px 0px 20px 20px;
@@ -45,7 +37,7 @@
 .footer{
     background-color: lightslategray;
     color: lightyellow;
-    margin: 10px auto;
+    margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
 
@@ -63,9 +55,43 @@
  a{
     color: black;
 }
+.address-color{
+    color: black;
+}
 .ul-container{
     border: 3px ridge lightyellow;
     color: black;
     margin: 10px 10px 10px 10px;
     border-radius: 10px;
 }
+.h2-container{
+   border-bottom: 1px ridge black;
+}
+.color-ul{
+    background-color: black;
+}
+
+
+
+.button {
+    display: inline-block;
+    padding: .75rem 1.25rem;
+    border-radius: 10rem;
+    color: whitesmoke;
+    background-color: cadetblue;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+.button:hover {
+    background: lightgrey;
+    color: black
+}
+
