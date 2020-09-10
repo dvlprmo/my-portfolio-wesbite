@@ -1,1 +1,1 @@
-exclude: ['_site','node_modules', ...]
+include: ['_site','node_modules', ...]
