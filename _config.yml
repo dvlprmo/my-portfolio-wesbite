@@ -1,1 +1,1 @@
-keep_files: [node]
+keep_files: ['_site','node_modules', ...]
