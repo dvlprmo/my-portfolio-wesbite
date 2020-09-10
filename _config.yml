@@ -1,1 +1,1 @@
-keep_files: ['_site','node_modules', ...]
+exclude: ['_site','node_modules', ...]
