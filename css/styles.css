@@ -96,8 +96,44 @@
     text-decoration: none !important;
     font-weight: bold;
 }
+.button-project{
+    display: inline-block;
+    padding: .50rem 1.00rem;
+    border-radius: 10rem;
+    color: whitesmoke;
+    background-color: cadetblue;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    text-decoration: none !important;
+    font-weight: bold;
+   
+}
+.button-project:hover{
+    background: lightgrey;
+    color: black
+
+}
 .button:hover {
     background: lightgrey;
     color: black
 }
-
+.card-circle{
+    border-radius: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.card-circle-image{
+    border-radius: 25px;
+}
+.gp-container{
+    gap: 45px
+}
+.card-text{
+    height: 250px;
+}
