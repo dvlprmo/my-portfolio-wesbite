@@ -116,12 +116,12 @@
 }
 .button-project:hover{
     background: lightgrey;
-    color: black
+    color: black;
 
 }
 .button:hover {
     background: lightgrey;
-    color: black
+    color: black;
 }
 .card-circle{
     border-radius: 25px;
@@ -132,7 +132,7 @@
     border-radius: 25px;
 }
 .gp-container{
-    gap: 45px
+    gap: 45px;
 }
 .card-text{
     height: 250px;
