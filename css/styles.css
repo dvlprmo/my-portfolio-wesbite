@@ -140,3 +140,9 @@
 .objetive-statment{
     font-weight: bolder;
 }
+.tab-content {
+    border-left: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    padding: 10px;
+}
