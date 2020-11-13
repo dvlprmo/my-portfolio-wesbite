@@ -146,3 +146,30 @@
     border-bottom: 2px solid #ddd;
     padding: 10px;
 }
+
+.carousel {
+    background-image: url("/images/main.jpg");
+  }
+  .first-item{
+      
+  }
+  .carousel .carousel-item {
+    height: 300px;
+  }
+  .carousel img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+  }
+  #carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+  }
+  .carousel h2 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .carousel p{
+    font-family: 'Montserrat', sans-serif;
+  }
